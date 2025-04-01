@@ -1,0 +1,14 @@
+int= inteiros
+float=reais
+*quando a variável é de texto não usa!!!
+-conversar com usuário
+-print (f'blah blah {variável:2.f}
+-print ('%f o valor é: %.2f' % variável)
+
+-for=sei a qntdd de vzs
+for i in range (range é difinir o começo, o final e o incremento)
+semp q colocar o num saiba q irá parar um num antes
+-while=qnd n sb a qntdd
+
+
+

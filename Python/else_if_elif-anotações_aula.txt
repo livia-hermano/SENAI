@@ -1,0 +1,4 @@
+-if embaixo de outro if (possível)
+-para validar diferentes opções que não vão interferir entre si
+- else: se não
+-elif: else+if
